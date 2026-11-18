@@ -1,0 +1,83 @@
+{
+  "projects": [
+    {
+      "title": "Discat Dashboard",
+      "category": "apps",
+      "description": "Discat One と Discat Guard を管理するダッシュボード。",
+      "tags": [
+        "Web",
+        "JavaScript"
+      ],
+      "url": "https://github.com/xero711/Discat-dashboard"
+    },
+    {
+      "title": "ValoAutoPick",
+      "category": "apps",
+      "description": "VALORANT のエージェント選択とキュー操作を支援する Windows アプリ。リポジトリは非公開です。",
+      "tags": [
+        "Windows",
+        "C#"
+      ]
+    },
+    {
+      "title": "ez-converter",
+      "category": "apps",
+      "description": "ファイルの変換と、LAN やインターネットを通じた共有に対応する Windows アプリ。",
+      "tags": [
+        "Windows",
+        "C#",
+        "WPF"
+      ],
+      "url": "https://github.com/xero711/ez-converter"
+    },
+    {
+      "title": "Ziper",
+      "category": "apps",
+      "description": "ZIP の互換性と安全な展開を重視した、Windows 向け圧縮・展開ツール。",
+      "tags": [
+        "Windows",
+        "C#",
+        "ZIP"
+      ],
+      "url": "https://github.com/xero711/Ziper"
+    },
+    {
+      "title": "TYPE ARENA",
+      "category": "games",
+      "description": "タイピングで戦うゲーム。CPU対戦などを備えたオンライン対戦型RPG。",
+      "tags": [
+        "Game",
+        "Web"
+      ],
+      "url": "https://github.com/xero711/type-arena"
+    },
+    {
+      "title": "ValoTrackerPlus",
+      "category": "apps",
+      "description": "架空の試合データを使って VALORANT の試合結果画面を検討する Windows 向けプロトタイプ。",
+      "tags": [
+        "Windows",
+        "C#",
+        "Prototype"
+      ],
+      "url": "https://github.com/xero711/ValoTrackerPlus"
+    },
+    {
+      "title": "C++ Mastery",
+      "category": "apps",
+      "description": "ゲームプログラマーを目指す人に向けた、日本語の C++ 実践カリキュラム。",
+      "tags": [
+        "C++",
+        "Web",
+        "Learning"
+      ],
+      "url": "https://github.com/xero711/cpp-mastery"
+    }
+  ],
+  "contact": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/xero711"
+    }
+  ]
+}
